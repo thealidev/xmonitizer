@@ -1,6 +1,5 @@
-## MaxJS Is A PowerFull JS Powered By AliX ..
-## To Use It Just Add Folwing In Your Html Code ..
+## MaxJS Is A PowerFull JS Used To Monitize AliX Projects ..
 ```
-<script src="https://raw.githubusercontent.com/thealixtech/maxjs/main/server.js"></script>
-<script src="https://raw.githubusercontent.com/thealixtech/maxjs/main/client.js"></script>
+<script src="https://maxjs.vercel.app/server.js"></script>
+<script src="https://maxjs.vercel.app/client.js"></script>
 ```
