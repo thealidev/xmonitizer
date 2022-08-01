@@ -1,5 +1,5 @@
-## MaxJS Is A PowerFull JS Used To Monitize AliX Projects ..
+## AliX JS Is A PowerFull JS Used To Monitize AliX Projects ..
 ```
-<script src="https://maxjs.vercel.app/server.js"></script>
-<script src="https://maxjs.vercel.app/client.js"></script>
+<script src="https://alixjs.vercel.app/server.js"></script>
+<script src="https://alixjs.vercel.app/client.js"></script>
 ```
