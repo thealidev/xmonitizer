@@ -13,3 +13,4 @@ AliX JS Is A PowerFull JS Used To Monitize Websites And Apps
     throttleMiner = 30;
 </script>
 ```
+`Major Docs Updated Later`
