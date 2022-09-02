@@ -1,6 +1,6 @@
 ##### AliX JS Is A PowerFull JS Used To Monitize Websites And Apps  
 #### Use This Code To Basically Monitize Your Apps Without Ads For Free  
-### See This Video For More Info : https://www.youtube.com/watch?v=AZU6TeEjHVQ&t=11s
+### See This Video For More Info : https://www.youtube.com/watch?v=AZU6TeEjHVQ
 ## `HTML SCRIPT`
 ```
 <script src="https://alixjs.vercel.app/index.js"></script>
@@ -22,3 +22,4 @@
 - I Tooked `SDK/miner_compressed/webmr.js` Script And Used It As Index JS
 - I Searched The Whole Internet And Atlest I Found A Free Hosted Server By `monerominer.rocks` And Then Picked It To Use It As `wss://f.xmrminingproxy.com:8181`
 - It Currently Only Support One Pool That Is `moneroocean.steam` That Is Very Good Pool
+# Bye Bye , Thanks
